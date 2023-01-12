@@ -7,5 +7,5 @@
     <p>References to authors of used ML models</p>
     <ul>
       <li><a href="https://github.com/ultralytics/yolov5">Yolo v5</a> - Used Yolo v5 model </li>
-      <li><a href="link">LibraryName</a> - Dependency Management</li>
+      <li><a href="https://pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_">Faster R-CNN</a> - Used Faster R-CNN model</li>
     </ul>
