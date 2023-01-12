@@ -2,9 +2,7 @@
 <html>
   <body>
     <h1>PotholeDetector</h1>
-    <p>Pothole Detector for an uni project.</p>
-    <h2>Getting Started</h2>
-    <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.</p>
+    <p>Pothole Detector is a school project that aims to develop a system to detect potholes on roads. The project is expected to utilize computer vision and machine learning techniques to detect and locate potholes in real-time. </p>
     <h3>Sources</h3>
     <p>References to authors of used ML models</p>
     <ul>
